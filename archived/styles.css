@@ -1,0 +1,28 @@
+.fa {
+  margin: 20px;
+  padding: 7px;
+  font-size: 30px;
+  width: 17px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+/* Add a hover effect if you want */
+.fa:hover {
+  opacity: 0.7;
+}
+/*linkedin color*/
+.fa-linkedin {
+  background: RGB(44, 98, 190);
+  color: white;
+}
+
+.fa-medium {
+  background: black;
+  color: white;
+}
+
+.fa-github-alt {
+  background: RGB(113, 19, 120);
+  color: white;
+}
